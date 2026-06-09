@@ -1,19 +1,24 @@
 # Homelab
 
-This repository documents my personal homelab, used to learn and practice **Linux, networking, and cybersecurity** from the ground up.  
-The lab evolves as my skills grow and serves as a practical environment for experimentation, self-hosting, and penetration-testing practice.
+Personal lab environment for hands-on practice with Linux, networking, and security.
+Built alongside the eJPT study path and CompTIA certification tracks.
 
 ---
 
-## Purpose
+## Structure
 
-- Build hands-on experience with Linux and core infrastructure  
-- Explore networking concepts in a controlled environment  
-- Host vulnerable applications for security testing  
-- Support my learning path toward penetration testing and CTF platforms  
-- Document configurations, notes, and experiments along the way
+| Folder | Content |
+|---|---|
+| `docs/` | Setup guides and configuration notes |
+| `config-examples/` | Sanitized configuration files |
+| `scripts/` | Automation and setup scripts |
+| `modules/` | Per-service documentation |
+| `diagrams/` | Network topology and architecture diagrams |
 
-## Notes
+---
 
-- All configurations are sanitized and contain no real secrets.
-- This homelab is strictly for educational and legal use only.
+## Status
+
+Active build. Documentation is added as the lab evolves.
+
+All configurations are sanitized — no real credentials or secrets committed.
