@@ -21,4 +21,4 @@ Built alongside the eJPT study path and CompTIA certification tracks.
 
 Active build. Documentation is added as the lab evolves.
 
-All configurations are sanitized — no real credentials or secrets committed.
+All configurations are sanitized - no real credentials or secrets committed.
